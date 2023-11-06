@@ -18,3 +18,4 @@ Press \[Up + Attack] to toggle seed permanence!
 
 # Known issues
 - Can't progress past title screen sometimes
+- Doesn't work with current version of game
